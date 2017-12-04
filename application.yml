@@ -1,4 +1,4 @@
-mangement:
+management:
   security:
     enabled: false
 
